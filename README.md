@@ -1,2 +1,2 @@
 # JavaScript-Solutions-Certification
-This was the solutions I came up with to gain the FreeCodeCamp certification
+These were the solutions I came up with to gain the FreeCodeCamp certification of JavaScript Data Structures and Algorithms. They are all completely unique, and yes, I know some needed optimization, which I learned how to do after completing the problems/projects. One example is the Telephone Number Validator, which I knew was done incorrectly, and have since gone on to find better solutions. The better solutions, if needed, are listed below to see for the projects.
